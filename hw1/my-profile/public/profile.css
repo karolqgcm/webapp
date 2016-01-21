@@ -1,0 +1,74 @@
+/*rowspan and tr color not working*/
+* {
+    background-color: #A5C663;
+
+    font-family: Cambria;
+}
+body{
+
+    position: relative;
+    font-size: 150%;
+}
+.Header{
+    background-color: #AA3939;
+    padding: 10px;
+    margin: 0;
+    text-align: center;
+    font-size: 200%;
+    color:#FFAAAA;
+
+}
+article{
+    align-items: center;
+
+}
+
+.Header *{
+    background-color: transparent;
+}
+
+
+a{
+    font-family: Consolas;
+}
+
+
+#bit_link img{
+    height: 100px;
+}
+#bit_link figcaption{
+    font-size: 50%;
+}
+td{
+    padding: 10px;
+    margin: 10px;
+    border-right: 1px solid #801515;
+
+
+}
+#picture img{
+    height: 300px;
+    width:430px;
+    border-bottom: none;
+}
+.linha{
+    width: 30%;
+}
+tr{
+    padding: 10px;
+    margin: 10px;
+    text-align: left;
+
+}
+.Table1 *{
+    background-color: #eeeeee;
+}
+.Table1 {
+    margin-left: inherit;
+    margin-right: inherit;
+    background-color: #eeeeee;
+    padding: 10px;
+    width: 100%;
+    color: #354F00;
+
+}
