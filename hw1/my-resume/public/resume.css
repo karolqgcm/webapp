@@ -9,7 +9,7 @@ body{
 }
 
 .Header{
-    padding: 15px;
+    padding: 0px;
     overflow: hidden;
     background: #333366;
 
@@ -28,9 +28,14 @@ header h1{
     position: relative;
     float: left;
     width: 250px;
-    margin: 0px;
-    padding:10px;
+    padding-bottom: 20px;
 
+
+}
+.FloatingFigure{
+    padding-left:20px;
+
+    margin-left: 5%;
 }
 .Contact {
     display: inline-block;
@@ -48,14 +53,12 @@ article *{
 
     color: #000033;
 }
-article{
-
+.Content{
+    width: 90%;
+    margin-left: 5%;
     padding: 20px 20px 20px 20px;
 }
-.Content{
 
-
-}
 .italic{
     font-style: italic;
 }

@@ -31,7 +31,9 @@ article{
 a{
     font-family: Consolas;
 }
+#linha{
 
+}
 
 #bit_link img{
     height: 100px;
@@ -42,7 +44,7 @@ a{
 td{
     padding: 10px;
     margin: 10px;
-    border-right: 1px solid #801515;
+
 
 
 }
@@ -52,7 +54,9 @@ td{
     border-bottom: none;
 }
 .linha{
-    width: 30%;
+    width: 50%;
+    text-align: center;
+    border-right: 1px solid #801515;
 }
 tr{
     padding: 10px;
@@ -64,10 +68,9 @@ tr{
     background-color: #eeeeee;
 }
 .Table1 {
-    margin-left: inherit;
-    margin-right: inherit;
+
     background-color: #eeeeee;
-    padding: 10px;
+    padding-bottom: 10px;
     width: 100%;
     color: #354F00;
 
