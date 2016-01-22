@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Crazy Ezio's Pizza :: Place Your Order</title>
+
+    <link rel="stylesheet" type="text/css" href="order.css" />
+</head>
+
+<body>
+
+<main>
+    <section>
+        <h2>Order a Pizza!</h2>
+        <form>
+
+            <fieldset>
+                <legend>Delivery Info</legend>
+                <!--
+                    Fields for the customer's name, contact info,
+                    and the delivery address go here.
+                -->
+                <label for="nameid">Name</label>
+                <input type="text" placeholder="Jane Doe" id="nameid"
+                       name="name" autofocus required><br>
+                <label for="phoneid">Phone</label>
+                <input type="tel" placeholder="123-456-7890" id="phoneid"
+                       name="phone"><br>
+                <label for="addressid">Address</label>
+                <input type="address" placeholder="30 Eddy St" id="addressid"
+                name="address">
+            </fieldset>
+
+            <fieldset>
+                <legend>Make the Pizza</legend>
+                <!--
+                    Fields for the pizza size and toppings go here
+                -->
+                <select name="size" id="sizeid">
+                    <option value="big">Big</option>
+                    <option value="medium">Medium</option>
+                    <option value="small">Small</option>
+                </select>
+                <br>
+                <label for="toppings">Toppings</label><br>
+                <input type="checkbox" name="cheese" value="cheese">Cheese<br>
+                <input type="checkbox" name="pepperoni"value="pepperoni">Pepperoni<br>
+                <input type="checkbox" name="greenOlive" value="greenOlive">Green Olive<br>
+                <input type="checkbox" name="chicken" value="chicken">Chicken<br>
+                <input type="checkbox" name="meat" value="meat">Meat<br>
+                <input type="checkbox" value="extracheese" value="extracheese">Extra Cheese<br>
+
+            </fieldset>
+
+            <!--
+                The submit button goes here.
+            -->
+            <input type="submit" value="Submit"/>
+
+        </form>
+    </section>
+</main>
+
+</body>
+</html>

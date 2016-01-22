@@ -1,0 +1,48 @@
+body {
+    background-color: firebrick;
+}
+
+header {
+    position: relative;
+    background-color: whitesmoke;
+    min-width: 800px;
+    min-height: 150px;
+    max-height: 150px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+main section {
+    background-color: whitesmoke;
+    border: 1px solid lightgray;
+    padding: 10px 25px 10px 25px;
+    max-width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+fieldset {
+    background-color: white;
+    min-width: 100px;
+    width: 450px;
+    padding: 10px 25px 15px 25px;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+form {
+    font-size: 18pt;
+
+}
+
+input{
+    border-radius: 5px;
+    font-size: 14pt;
+}
+
+select{
+    font-size: 14pt;
+}
+
+
