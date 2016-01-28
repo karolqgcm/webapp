@@ -1,0 +1,9 @@
+{
+  "firebase": "exercises--0126",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}

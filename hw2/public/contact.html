@@ -1,0 +1,44 @@
+<!doctype html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Contact</title>
+        <link rel="stylesheet" type="text/css" href="styles/contact.css">
+        <!-- Don't remove these lines -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script src="https://cdn.firebase.com/js/client/2.3.2/firebase.js"></script>
+        <script src="scripts/submit.js"></script>
+        <!-- Don't remove these lines -->
+
+    </head>
+
+    <body>
+        <header>
+            <h1>Doubt? Suggestion? Complains?</h1>
+            <h2> Talk to me!</h2>
+        </header>
+    <!-- Contact Form -->
+        <section>
+            <form id="contact">
+                <label>Name: </label>
+                <input type="text" name="name_sender" id="nameid"><br>
+                <label>Phone</label>
+                <input type="tel" name="tel_sender" id="phoneid"><br>
+                <label>Email</label>
+                <input type="email" name="mail_sender" id="mailid"><br>
+                <p class="message">
+                    <label for="messageid">Message</label>
+                    <textarea id="messageid"></textarea>
+                </p>
+            </form>
+            <div id="submit_button">
+                <button class="submit" onclick="sendMessage()">Send</button>
+            </div>
+        </section>
+        <footer><p></p></footer>
+
+    </body>
+
+
+</html>

@@ -1,0 +1,87 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Lucida Sans" ;
+}
+header{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+
+    background-color:#7c8491;
+    color:white ;
+
+}
+
+body {
+    padding: 0px;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    margin: 0px;
+}
+label{
+
+    text-align: right;
+    display:inline-block;
+    padding: 15px;
+    width: 50px;
+    font-family: "Bauhaus 93" ;
+    color: #2c3646;
+}
+
+input{
+    border: 1px solid white;
+    text-align: left;
+    display: inline-block;
+    padding: 10px;
+    width: 300px;
+    background-color: #d7e1e5;
+}
+
+section{
+    padding-top: 5%;
+    text-align: center;
+    height: 55%;
+
+}
+textarea{
+    width: 300px;
+    height: 150px;
+    vertical-align: top;
+    padding: 10px;
+    background-color: #d7e1e5;
+    border: 1px solid white;
+}
+
+.message{
+    position: relative;
+}
+
+label[for="messageid"]{
+
+    top: 5px;
+
+}
+
+#submit_button{
+
+    padding-left: 350px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+button{
+    width: 60px;
+}
+
+footer{
+    background-color: #9b887d;
+    font-style:italic ;
+    padding-top: 2.5%;
+    height: 9%;
+
+}
+

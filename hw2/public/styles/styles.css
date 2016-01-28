@@ -1,0 +1,136 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Lucida Sans" ;
+    font-size: 24px;
+    overflow: hidden;
+}
+
+html{
+    height:100%;
+    margin: 0;
+}
+body {
+
+    height: 100%;
+    margin: 0;
+}
+header{
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    height: 10%;
+    background-color:#7c8491;
+    color:white ;
+    margin:0;
+
+}
+article{
+
+    height:70%;
+    margin: 0;
+    color: #2c3646;
+}
+
+footer{
+
+    background-color: #9b887d;
+    height: 10%;
+    margin:0;
+}
+#picture{
+    margin-left: 20px;
+    position: absolute;
+    bottom: -100px;
+    top: 100px;
+}
+#picture img{
+    height: 200px;
+    border: 20px solid #f5e2d0;
+
+
+}
+
+#sec_hobbies{
+
+    float: left;
+    width: 33%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#sec_movies{
+
+    float: left;
+    width: 33%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#sec_sites{
+
+    float: left;
+    width: 33%;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.lists {
+
+    margin-left: 10%;
+    padding-top: 2.5%;
+
+}
+.lists p{
+    margin-bottom: 2.5%;
+}
+#pic_bit{
+
+    float:left;
+    text-align: center;
+    margin-top: 15%;
+    margin-left: 5%;
+}
+#pic_bit img{
+    width: 100px;
+
+}
+
+#pic_bit figcaption{
+    font-size: 10px;
+    width:100px;
+}
+
+.lists p{
+text-align: center;
+}
+.ind_list li{
+   padding-left: 40%;
+
+}
+.ind_list{
+    list-style-position: inside;
+}
+nav{
+    magin-top: 10px;
+    margin-left:25%;
+    height: 50px;
+    padding-top: 20px;
+
+}
+
+nav li{
+
+    display: inline;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    float: left;
+    width: 200px;
+}
+
+h1{
+    font-size: 45px;
+    margin:10px;
+}
