@@ -10,6 +10,10 @@
         <script src="https://cdn.firebase.com/js/client/2.3.2/firebase.js"></script>
         <script src="scripts/submit.js"></script>
         <!-- Don't remove these lines -->
+        <script src="scripts/shared/js/modernizr.com/Modernizr-2.5.3.forms.js"></script>
+        <script src="scripts/shared/js/html5Forms.js" data-webforms2-support="all"
+                data-webforms2-force-js-validation="true"></script>
+        <script src="scripts/submit.js"></script>
 
     </head>
 
@@ -20,19 +24,21 @@
         </header>
     <!-- Contact Form -->
         <section>
+            <p id="required">* required field</p>
             <form id="contact">
-                <label>Name: </label>
-                <input type="text" name="name_sender" id="nameid"><br>
+                <label>Name*</label>
+                <input type="text" name="name_sender" id="nameid" required placeholder="John Smith"><br>
                 <label>Phone</label>
-                <input type="tel" name="tel_sender" id="phoneid"><br>
-                <label>Email</label>
-                <input type="email" name="mail_sender" id="mailid"><br>
+                <input type="tel" name="tel_sender" id="phoneid" placeholder="(123)456-7890"><br>
+                <label>Email*</label>
+                <input type="email" name="mail_sender" id="mailid" required placeholder="your@email.com"><br>
                 <p class="message">
-                    <label for="messageid">Message</label>
-                    <textarea id="messageid"></textarea>
+                    <label for="messageid">Message*</label>
+                    <textarea id="messageid" required placeholder="Write your message here"></textarea>
                 </p>
             </form>
             <div id="submit_button">
+
                 <button class="submit" onclick="sendMessage()">Send</button>
             </div>
         </section>

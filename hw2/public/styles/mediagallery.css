@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Lucida Sans" ;
+    font-size: 24px;
+
+
+}
+
+html body{
+    height:100%;
+    margin: 0;
+}
+
+header{
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    height: 10%;
+    background-color:#7c8491;
+    color:white ;
+    margin:0;
+
+}
+body{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+}
+h1{
+    font-size: 45px;
+    margin:10px;
+}
+article{
+
+    height: 70%;
+    margin: 0;
+    color: #2c3646;
+}
+
+footer{
+
+    background-color: #9b887d;
+    height: 10%;
+    margin:0;
+}
+
+#sec_audio{
+
+
+    width:30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#sec_video{
+
+    padding-top:2%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#lana #queen {
+
+}
+#ice {
+    float:left;
+    margin-left: 25%;
+    padding-right:3%;
+    margin-right: auto;
+}
+
+#plate{
+    float:left;
+    margin-left: auto;
+    margin-right: auto;
+
+}

@@ -84,4 +84,10 @@ footer{
     height: 9%;
 
 }
-
+#required{
+    color: red;
+}
+input:focus:required:invalid {
+    background-color: #FFAAAA;
+    border: 2px solid red;
+}

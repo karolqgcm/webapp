@@ -130,6 +130,16 @@ nav li{
     width: 200px;
 }
 
+
+nav a:link{
+    text-decoration: none;
+}
+
+nav a:hover{
+    background-color:white;
+    color:#7c8491;
+
+}
 h1{
     font-size: 45px;
     margin:10px;

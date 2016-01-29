@@ -1,0 +1,94 @@
+*{
+    font-family: "Lucida Sans" ;
+    padding: 0;
+}
+body{
+    margin: 0;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.Header{
+    padding: 0px;
+    overflow: hidden;
+    background: #7c8491;
+
+}
+
+.Header *{
+    color: white;
+    background-color: transparent;
+}
+header h1{
+    font-size: 300%;
+    margin: 0;
+}
+.FloatingFigure img{
+    display: inline-block;
+    position: relative;
+    float: left;
+    width: 250px;
+    padding-bottom: 20px;
+
+
+}
+.FloatingFigure{
+    padding-left:20px;
+
+    margin-left: 5%;
+}
+.Contact {
+    display: inline-block;
+    position: relative;
+    font-style: italic;
+    font-size: small;
+    line-height: 1.2;
+    float:right;
+    margin: 0px;
+    padding:10px;
+}
+
+
+article *{
+
+    color: #2c3646;
+}
+.Content{
+    width: 90%;
+    margin-left: 5%;
+    padding: 20px 20px 20px 20px;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.Date{
+    text-align: left;
+
+}
+section p{
+    position: relative;
+}
+section{
+    padding-bottom: 10px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 125%;
+    line-height: 0.6;
+}
+
+footer{
+    margin:0;
+    text-align: left;
+    background-color:  #9b887d;
+    padding: 20px;
+}
+footer *{
+    background-color: transparent;
+    color:white;
+}
+
+footer ul{
+    list-style: none;
+}
