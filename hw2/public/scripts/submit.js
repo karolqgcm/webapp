@@ -4,7 +4,7 @@
 function sendMessage(){
 
 	// This will contain the URL to your firebase app
-	var firebase_url = "https://sizzling-torch-4245.firebaseio.com/messages";
+	var firebase_url = "https://kqueiroz-hw2.firebaseio.com/messages";
 
 	//Create message
 	var message = {
