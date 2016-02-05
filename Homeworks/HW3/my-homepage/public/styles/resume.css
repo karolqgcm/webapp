@@ -60,28 +60,38 @@ nav{
     margin-left:25%;
     height: 50px;
     padding-top: 1%;
+    float:left;
 
 }
 
 nav li{
 
-    display: inline;
+    display: block;
     padding: 0.5%;
     margin-left: 1%;
     margin-right: 1%;
-    float: left;
-    width: 200px;
+    float: none;
+    width: 50%;
+}
+nav ul{
+    width: 100%;
+    position: relative;
+    list-style-type: none;
+    overflow: auto;
 }
 
 
 nav a:link{
     text-decoration: none;
+    display: block;
 }
 
-nav a:hover {
-    background-color: white;
-    color: #7c8491;
+nav a:hover{
+    background-color:white;
+    color:#7c8491;
+
 }
+
 /*-------------------------------------------*/
 /*Article*/
 article *{
@@ -141,4 +151,32 @@ footer ul{
     .rightColumn{
         float:left;
     }
+    nav{
+        magin-top: 0.5%;
+        margin-left:25%;
+        height: 50px;
+        padding-top: 1%;
+
+    }
+
+    nav li{
+
+        display: inline;
+        padding: 0.5%;
+        margin-left: 1%;
+        margin-right: 1%;
+        float: left;
+        width: 200px;
+    }
+
+
+    nav a:link{
+        text-decoration: none;
+    }
+
+    nav a:hover {
+        background-color: white;
+        color: #7c8491;
+    }
+
 }
