@@ -9,17 +9,6 @@ function TreeNode(){
     }
 };
 
-function TreeNode(data,count){
-    this.data = data;
-    this.count = count;
-    this.left = undefined;
-    this.right = undefined;
-    this.compare = function(value){
-        if(this.data == value)return this;
-        if(this.data < value) return this.right;
-        else return this.left;
-    }
-}
 function BinaryTree() {
     this.root = null;
 }
