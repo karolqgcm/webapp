@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:href="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" href="styles/style.css">
+    <link href='https://fonts.googleapis.com/css?family=Josefin+Sans' rel='stylesheet' type='text/css'>
+    <title>Profile</title>
+</head>
+<body>
+    <header class="Header">
+        <!--Background header image-->
+        <figure id = "header_bg">
+            <img id = "img_header" src="images/graphic1.png">
+        </figure>
+        <!--picure-->
+        <figure id="karol_pic">
+            <img id ="img_karol" src="images/karol_pic.jpg" alt="Karol's picture">
+        </figure>
+
+        <!--annoying pop-up-->
+        <div class="popup">
+            <div id="dialog" title="Look at the cat!">
+                <p>Yes,I'm trying to annoy you<br>
+                    fell free and message if you need anything<!doctype html></p>
+                <img src="images/cat.jpg">
+            </div>
+            </div>
+
+        <!--menu-->
+        <nav id ="menu" >
+            <ul id="list_menu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="mediagalery.html">Media Gallery</a> </li>
+                <li><a href="resume.html">Resume</a> </li>
+                <li><a href="contact.html">Contact</a> </li>
+            </ul>
+        </nav>
+
+        <h1>Karol</h1>
+
+    </header>
+
+<article id="i_Content">
+
+
+    <div class="i_lists">
+        <h2 class = "SectionHeader">My interests:</h2>
+        <section id="i_sec_hobbies" class="lists">
+            <h3 class = "SectionHeader">Hobbies:</h3>
+            <div class="i_ind_list">
+                <ul>
+                    <li>Programming</li>
+                    <li>Playing Games</li>
+                    <li>Baking</li>
+                    <li>Photography</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="i_sec_movies" class="lists">
+            <h3 class = "SectionHeader">Top 3 movies:</h3>
+            <div class="i_ind_list">
+                <ol>
+                    <li>Wall-e</li>
+                    <li>Interstellar</li>
+                    <li>The Imitation Game</li>
+                </ol>
+            </div>
+        </section>
+
+        <section id="i_sec_sites" class="lists">
+            <h3 class = "SectionHeader">Top websites:</h3>
+            <div class="i_ind_list">
+                <ol>
+                    <li><a href="http://www.imgur.com">Imgur</a></li>
+                    <li><a href="http://www.reddit.com">Reddit</a></li>
+                    <li><a href="http://www.netflix.com">Netflix</a></li>
+                </ol>
+            </div>
+        </section>
+    </div>
+
+    <section id="feednd">
+        <h3 class = "SectionHeader">Web Application project:</h3>
+        <div class="div_feednd">
+            <a href="feednd/feednd.html">Access here</a>
+            </div>
+    </section>
+
+
+</article>
+<footer class="Footer">
+    <!--bit bucket, contact information-->
+
+    <section id="pic_bit">
+        <figure id="bit_link">
+            <a href="https://bitbucket.org/kqueiroz/"><img src="images/bitbucket.png" alt="Bitbucket repository" ></a>
+            <figcaption>Access my Bitbucket <br>repository!</figcaption>
+        </figure>
+    </section>
+    <div class="Contact">
+        <h2>Contact Information</h2>
+        <p>University of Notre Dame</p>
+        <p>kqueiroz@nd.edu</p>
+
+    </div>
+</footer>
+<script src="http://code.jquery.com/jquery-2.2.0.min.js"></script>
+<script src="https://cdn.firebase.com/js/client/2.4.0/firebase.js"></script>
+<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
+<script src="scripts/popup.js"></script>
+</body>
+</html>

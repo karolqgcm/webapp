@@ -1,260 +1,260 @@
 {
-        "macris-italian-bakery": {
-            "name": "Macri's Italian Bakery",
-            "street": "214 North Niles Ave.",
-            "city": "South Bend",
-            "state": "IN",
-            "zip": "46617",
-            "phone": "(574) 282-1010",
-            "lat": "41.678254",
-            "lng": "-86.244274",
-            "site": "http://www.macrifamily.com/",
-            "menu": {
-                "0": {
-                    "name": "Arancini",
-                    "description": "Arborio rice balls, stuffed with sopressata and mozzarella cheese, served with a side of marinara sauce.",
-                    "price": "7.95"
-                },
-                "1": {
-                    "name": "Insalata Caprese",
-                    "description": "Roma tomatoes, fresh mozzarella, basil, and extra virgin olive oil.",
-                    "price": "7.95"
-                },
-                "2": {
-                    "name": "Fresh Spinach Salad",
-                    "description": "Fresh spinach tossed spring mix greens, pine nuts, cranberries, and assorted vegetables served with a raspberry vinaigrette dressing.",
-                    "price": "8.95"
-                },
-                "3": {
-                    "name": "Linguine con Vongole",
-                    "description": "Linguine with baby clams simmered in our spicy tomato sauce.",
-                    "price": "16.95"
-                },
-                "4": {
-                    "name": "Filetto di Manzo alla Griglia",
-                    "description": "Fillet mignon grilled to order, lightly seasoned with a gorgonzola topping, served with homemade garlic roasted potatoes and fresh sauteed spinach.",
-                    "price": "26.95"
-                },
-                "5": {
-                    "name": "Salmon della Sila",
-                    "description": "Grilled salmon with a balsamic glaze served with mixed vegetables.",
-                    "price": "18.95"
-                }
-            }
-        },
-        "mandarin-house": {
-            "name": "Mandarin House",
-            "street": "2104 Edison Rd.",
-            "city": "South Bend",
-            "state": "IN",
-            "zip": "46617",
-            "phone": "(574) 287-4414",
-            "lat": "41.694324",
-            "lng": "-86.21752261",
-            "site": "http://www.mandarinhousein.com",
-            "menu": {
-                "0": {
-                    "name": "Egg Roll",
-                    "description": "Deep fried rice filled vegetables, sage & ground pork",
-                    "price": "1.5"
-                },
-                "1": {
-                    "name": "Pot Stickers (6)",
-                    "description": "Fried dumplings filled w/ ground pork & vegetables",
-                    "price": "5.25"
-                },
-                "2": {
-                    "name": "Mongolian Beef",
-                    "description": "A flavorful dish of sliced beef sauteed w/ green onion & white onion",
-                    "price": "9.5"
-                },
-                "3": {
-                    "name": "Curry Chicken",
-                    "description": "Chicken w/ white onion & green peppers in curry sauce",
-                    "price": "8.95"
-                },
-                "4": {
-                    "name": "General Tso's Chicken",
-                    "description": "Breaded & deep fried chicken in sweet & spicy sauce",
-                    "price": "10.5"
-                },
-                "5": {
-                    "name": "Sweet & Sour Shrimp",
-                    "description": "Deep fried shrimp w/ green peppers, tomato & pineapple in sweet & sour sauce",
-                    "price": "10.25"
-                }
-            }
-        },
-        "club-23": {
-            "name": "Club 23",
-            "street": "744 N. Notre Dame Ave.",
-            "city": "South Bend",
-            "state": "IN",
-            "zip": "46617",
-            "phone": "(574) 234-4015",
-            "lat": "41.68504",
-            "lng": "-86.237843",
-            "site": "http://club-23.com",
-            "menu": {
-                "0": {
-                    "name": "Haddock",
-                    "description": "Deep fried",
-                    "price": "10.95"
-                },
-                "1": {
-                    "name": "Side Salad",
-                    "description": "Homemade blue cheese & caesar dressing",
-                    "price": "2.95"
-                },
-                "2": {
-                    "name": "Alaskan King Crab Legs",
-                    "description": "1 pound",
-                    "price": "10.99"
-                },
-                "3": {
-                    "name": "Seafood Platter (Haddock, Perch, Scallops, Shrimp)",
-                    "description": "Deep fried or broiled",
-                    "price": "24.95"
-                },
-                "4": {
-                    "name": "South African Cold Water Lobster",
-                    "description": "1 or 2 tails",
-                    "price": "5.99"
-                },
-                "5": {
-                    "name": "10 Oz Tenderloin",
-                    "description": "",
-                    "price": "22.95"
-                }
-            }
-        },
-        "sunny-italy-cafe": {
-            "name": "Sunny Italy Cafe",
-            "street": "601 N. Niles Ave.",
-            "city": "South Bend",
-            "state": "State",
-            "zip": "46617",
-            "phone": "(574) 232-9620",
-            "lat": "41.68338635",
-            "lng": "-86.24484385",
-            "site": "http://sunnyitalycafe.com",
-            "menu": {
-                "0": {
-                    "name": "Chicken Cacciatora",
-                    "description": "Chicken baked in tomato & wine sauce, served w/ spaghetti.",
-                    "price": "17"
-                },
-                "1": {
-                    "name": "Manicotti",
-                    "description": "Tubular egg noodle dough stuffed w/ ricotta cheese.",
-                    "price": "16"
-                },
-                "2": {
-                    "name": "Sausage a Ragou",
-                    "description": "Our homemade sausage is from an old family recipe. Prepared in a tomato sauce, served w/ spaghetti.",
-                    "price": "20"
-                },
-                "3": {
-                    "name": "Spaghetti in Olive Oil & Garlic Sauce",
-                    "description": "Old world blends of basic ingredients that add new flavor & zest to our pasta.",
-                    "price": "14"
-                },
-                "4": {
-                    "name": "Pork Chop Dinner",
-                    "description": "Two fried chops served w/ pride",
-                    "price": "19"
-                },
-                "5": {
-                    "name": "Spaghetti in White Clam Sauce",
-                    "description": "Clams prepared in a olive oil give this pasta dish a flavor from the sea",
-                    "price": "17"
-                }
-            }
-        },
-        "sorins": {
-            "name": "Sorin's",
-            "street": "1 Notre Dame Ave.",
-            "city": "South Bend",
-            "state": "State",
-            "zip": "46656",
-            "phone": "(574) 631-2020",
-            "lat": "41.756634",
-            "lng": "-86.238832",
-            "site": "http://morrisinn.nd.edu/dining/sorins/",
-            "menu": {
-                "0": {
-                    "name": "Honey Glazed Pork Belly",
-                    "description": "Grilled pineapple, poblano peppers",
-                    "price": "8.99"
-                },
-                "1": {
-                    "name": "Prosciutto Spirals w/ Artichokes",
-                    "description": "Balsamic glaze",
-                    "price": "11.99"
-                },
-                "2": {
-                    "name": "Sorbet Sampler",
-                    "description": "A taste of all three of our sorbets",
-                    "price": "14.99"
-                },
-                "3": {
-                    "name": "Aged Filet Mignon",
-                    "description": "Red wine sauce, baby carrots, asparagus, sauteed wild mushrooms, truffle chive fondue",
-                    "price": "20.99"
-                },
-                "4": {
-                    "name": "Grilled Asparagus",
-                    "description": "Sweet pea risotto, sauteed wild mushrooms, baby carrots, saffron sauce",
-                    "price": "9.99"
-                },
-                "5": {
-                    "name": "Rustic Potato Leek Soup",
-                    "description": "Fried leeks",
-                    "price": "6.99"
-                }
-            }
-        },
-        "the-emporium": {
-            "name": "The Emporium",
-            "street": "121 S. Niles Ave.",
-            "city": "South Bend",
-            "state": "State",
-            "zip": "46617",
-            "phone": "(574) 234-9000",
-            "lat": "41.676031",
-            "lng": "-86.244344",
-            "site": "http://eastbankemporium.com",
-            "menu": {
-                "0": {
-                    "name": "Tempura Green Beans",
-                    "description": "Lightly fried tempura green beans with a spicy ranch sauce",
-                    "price": "7"
-                },
-                "1": {
-                    "name": "Bison Burger",
-                    "description": "Topped with fried onions and onion jam",
-                    "price": "12"
-                },
-                "2": {
-                    "name": "Quiche Florentine Filled",
-                    "description": "with Swiss cheese and spinach",
-                    "price": "8"
-                },
-                "3": {
-                    "name": "Greek Salad",
-                    "description": "Romaine lettuce, red onion, tomato, black olives, artichoke hearts, green pepper and feta cheese with Greek dressing",
-                    "price": "10"
-                },
-                "4": {
-                    "name": "Crab Cake Sandwich",
-                    "description": "Served with a mustard aioli, lettuce and tomato",
-                    "price": "10"
-                },
-                "5": {
-                    "name": "Southwestern Wrap",
-                    "description": "Grilled chicken, black beans, corn salsa, lettuce, tomato and chipotle mayo",
-                    "price": "9"
-                }
+    "macris-italian-bakery": {
+        "name": "Macri's Italian Bakery",
+        "street": "214 North Niles Ave.",
+        "city": "South Bend",
+        "state": "IN",
+        "zip": "46617",
+        "phone": "(574) 282-1010",
+        "lat": "41.678254",
+        "lng": "-86.244274",
+        "site": "http://www.macrifamily.com/",
+        "menu": {
+            "0": {
+                "name": "Arancini",
+                "description": "Arborio rice balls, stuffed with sopressata and mozzarella cheese, served with a side of marinara sauce.",
+                "price": "7.95"
+            },
+            "1": {
+                "name": "Insalata Caprese",
+                "description": "Roma tomatoes, fresh mozzarella, basil, and extra virgin olive oil.",
+                "price": "7.95"
+            },
+            "2": {
+                "name": "Fresh Spinach Salad",
+                "description": "Fresh spinach tossed spring mix greens, pine nuts, cranberries, and assorted vegetables served with a raspberry vinaigrette dressing.",
+                "price": "8.95"
+            },
+            "3": {
+                "name": "Linguine con Vongole",
+                "description": "Linguine with baby clams simmered in our spicy tomato sauce.",
+                "price": "16.95"
+            },
+            "4": {
+                "name": "Filetto di Manzo alla Griglia",
+                "description": "Fillet mignon grilled to order, lightly seasoned with a gorgonzola topping, served with homemade garlic roasted potatoes and fresh sauteed spinach.",
+                "price": "26.95"
+            },
+            "5": {
+                "name": "Salmon della Sila",
+                "description": "Grilled salmon with a balsamic glaze served with mixed vegetables.",
+                "price": "18.95"
             }
         }
+    },
+    "mandarin-house": {
+        "name": "Mandarin House",
+        "street": "2104 Edison Rd.",
+        "city": "South Bend",
+        "state": "IN",
+        "zip": "46617",
+        "phone": "(574) 287-4414",
+        "lat": "41.694324",
+        "lng": "-86.21752261",
+        "site": "http://www.mandarinhousein.com",
+        "menu": {
+            "0": {
+                "name": "Egg Roll",
+                "description": "Deep fried rice filled vegetables, sage & ground pork",
+                "price": "1.5"
+            },
+            "1": {
+                "name": "Pot Stickers (6)",
+                "description": "Fried dumplings filled w/ ground pork & vegetables",
+                "price": "5.25"
+            },
+            "2": {
+                "name": "Mongolian Beef",
+                "description": "A flavorful dish of sliced beef sauteed w/ green onion & white onion",
+                "price": "9.5"
+            },
+            "3": {
+                "name": "Curry Chicken",
+                "description": "Chicken w/ white onion & green peppers in curry sauce",
+                "price": "8.95"
+            },
+            "4": {
+                "name": "General Tso's Chicken",
+                "description": "Breaded & deep fried chicken in sweet & spicy sauce",
+                "price": "10.5"
+            },
+            "5": {
+                "name": "Sweet & Sour Shrimp",
+                "description": "Deep fried shrimp w/ green peppers, tomato & pineapple in sweet & sour sauce",
+                "price": "10.25"
+            }
+        }
+    },
+    "club-23": {
+        "name": "Club 23",
+        "street": "744 N. Notre Dame Ave.",
+        "city": "South Bend",
+        "state": "IN",
+        "zip": "46617",
+        "phone": "(574) 234-4015",
+        "lat": "41.68504",
+        "lng": "-86.237843",
+        "site": "http://club-23.com",
+        "menu": {
+            "0": {
+                "name": "Haddock",
+                "description": "Deep fried",
+                "price": "10.95"
+            },
+            "1": {
+                "name": "Side Salad",
+                "description": "Homemade blue cheese & caesar dressing",
+                "price": "2.95"
+            },
+            "2": {
+                "name": "Alaskan King Crab Legs",
+                "description": "1 pound",
+                "price": "10.99"
+            },
+            "3": {
+                "name": "Seafood Platter (Haddock, Perch, Scallops, Shrimp)",
+                "description": "Deep fried or broiled",
+                "price": "24.95"
+            },
+            "4": {
+                "name": "South African Cold Water Lobster",
+                "description": "1 or 2 tails",
+                "price": "5.99"
+            },
+            "5": {
+                "name": "10 Oz Tenderloin",
+                "description": "",
+                "price": "22.95"
+            }
+        }
+    },
+    "sunny-italy-cafe": {
+        "name": "Sunny Italy Cafe",
+        "street": "601 N. Niles Ave.",
+        "city": "South Bend",
+        "state": "State",
+        "zip": "46617",
+        "phone": "(574) 232-9620",
+        "lat": "41.68338635",
+        "lng": "-86.24484385",
+        "site": "http://sunnyitalycafe.com",
+        "menu": {
+            "0": {
+                "name": "Chicken Cacciatora",
+                "description": "Chicken baked in tomato & wine sauce, served w/ spaghetti.",
+                "price": "17"
+            },
+            "1": {
+                "name": "Manicotti",
+                "description": "Tubular egg noodle dough stuffed w/ ricotta cheese.",
+                "price": "16"
+            },
+            "2": {
+                "name": "Sausage a Ragou",
+                "description": "Our homemade sausage is from an old family recipe. Prepared in a tomato sauce, served w/ spaghetti.",
+                "price": "20"
+            },
+            "3": {
+                "name": "Spaghetti in Olive Oil & Garlic Sauce",
+                "description": "Old world blends of basic ingredients that add new flavor & zest to our pasta.",
+                "price": "14"
+            },
+            "4": {
+                "name": "Pork Chop Dinner",
+                "description": "Two fried chops served w/ pride",
+                "price": "19"
+            },
+            "5": {
+                "name": "Spaghetti in White Clam Sauce",
+                "description": "Clams prepared in a olive oil give this pasta dish a flavor from the sea",
+                "price": "17"
+            }
+        }
+    },
+    "sorins": {
+        "name": "Sorin's",
+        "street": "1 Notre Dame Ave.",
+        "city": "South Bend",
+        "state": "State",
+        "zip": "46656",
+        "phone": "(574) 631-2020",
+        "lat": "41.756634",
+        "lng": "-86.238832",
+        "site": "http://morrisinn.nd.edu/dining/sorins/",
+        "menu": {
+            "0": {
+                "name": "Honey Glazed Pork Belly",
+                "description": "Grilled pineapple, poblano peppers",
+                "price": "8.99"
+            },
+            "1": {
+                "name": "Prosciutto Spirals w/ Artichokes",
+                "description": "Balsamic glaze",
+                "price": "11.99"
+            },
+            "2": {
+                "name": "Sorbet Sampler",
+                "description": "A taste of all three of our sorbets",
+                "price": "14.99"
+            },
+            "3": {
+                "name": "Aged Filet Mignon",
+                "description": "Red wine sauce, baby carrots, asparagus, sauteed wild mushrooms, truffle chive fondue",
+                "price": "20.99"
+            },
+            "4": {
+                "name": "Grilled Asparagus",
+                "description": "Sweet pea risotto, sauteed wild mushrooms, baby carrots, saffron sauce",
+                "price": "9.99"
+            },
+            "5": {
+                "name": "Rustic Potato Leek Soup",
+                "description": "Fried leeks",
+                "price": "6.99"
+            }
+        }
+    },
+    "the-emporium": {
+        "name": "The Emporium",
+        "street": "121 S. Niles Ave.",
+        "city": "South Bend",
+        "state": "State",
+        "zip": "46617",
+        "phone": "(574) 234-9000",
+        "lat": "41.676031",
+        "lng": "-86.244344",
+        "site": "http://eastbankemporium.com",
+        "menu": {
+            "0": {
+                "name": "Tempura Green Beans",
+                "description": "Lightly fried tempura green beans with a spicy ranch sauce",
+                "price": "7"
+            },
+            "1": {
+                "name": "Bison Burger",
+                "description": "Topped with fried onions and onion jam",
+                "price": "12"
+            },
+            "2": {
+                "name": "Quiche Florentine Filled",
+                "description": "with Swiss cheese and spinach",
+                "price": "8"
+            },
+            "3": {
+                "name": "Greek Salad",
+                "description": "Romaine lettuce, red onion, tomato, black olives, artichoke hearts, green pepper and feta cheese with Greek dressing",
+                "price": "10"
+            },
+            "4": {
+                "name": "Crab Cake Sandwich",
+                "description": "Served with a mustard aioli, lettuce and tomato",
+                "price": "10"
+            },
+            "5": {
+                "name": "Southwestern Wrap",
+                "description": "Grilled chicken, black beans, corn salsa, lettuce, tomato and chipotle mayo",
+                "price": "9"
+            }
+        }
+    }
 }

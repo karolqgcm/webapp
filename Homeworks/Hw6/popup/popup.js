@@ -1,4 +1,4 @@
-/**
+    /**
  * Created by kqueiroz on 2/26/16.
  */
 $(function() {
@@ -6,14 +6,13 @@ $(function() {
         modal: true,
         resizable: false,
         buttons: {
-            "Continue": function() {
+            "Farewell": function() {
                 $(this).dialog("close");
             },
-            "Message me": function() {
+            "Complain to me": function() {
                 $(this).dialog("close");
                 window.location.href = "contact.html";
-            }
-        }
+            }        }
 
     });
     setTimeout(function(){  $("#dialog").dialog("close"); }, 5000);
