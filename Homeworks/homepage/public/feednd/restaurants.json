@@ -13,32 +13,38 @@
             "0": {
                 "name": "Arancini",
                 "description": "Arborio rice balls, stuffed with sopressata and mozzarella cheese, served with a side of marinara sauce.",
-                "price": "7.95"
+                "price": "7.95",
+                "likes":0
             },
             "1": {
                 "name": "Insalata Caprese",
                 "description": "Roma tomatoes, fresh mozzarella, basil, and extra virgin olive oil.",
-                "price": "7.95"
+                "price": "7.95",
+                "likes":0
             },
             "2": {
                 "name": "Fresh Spinach Salad",
                 "description": "Fresh spinach tossed spring mix greens, pine nuts, cranberries, and assorted vegetables served with a raspberry vinaigrette dressing.",
-                "price": "8.95"
+                "price": "8.95",
+                "likes":0
             },
             "3": {
                 "name": "Linguine con Vongole",
                 "description": "Linguine with baby clams simmered in our spicy tomato sauce.",
-                "price": "16.95"
+                "price": "16.95",
+                "likes":0
             },
             "4": {
                 "name": "Filetto di Manzo alla Griglia",
                 "description": "Fillet mignon grilled to order, lightly seasoned with a gorgonzola topping, served with homemade garlic roasted potatoes and fresh sauteed spinach.",
-                "price": "26.95"
+                "price": "26.95",
+                "likes":0
             },
             "5": {
                 "name": "Salmon della Sila",
                 "description": "Grilled salmon with a balsamic glaze served with mixed vegetables.",
-                "price": "18.95"
+                "price": "18.95",
+                "likes":0
             }
         }
     },
@@ -56,32 +62,38 @@
             "0": {
                 "name": "Egg Roll",
                 "description": "Deep fried rice filled vegetables, sage & ground pork",
-                "price": "1.5"
+                "price": "1.5",
+                "likes":0
             },
             "1": {
                 "name": "Pot Stickers (6)",
                 "description": "Fried dumplings filled w/ ground pork & vegetables",
-                "price": "5.25"
+                "price": "5.25",
+                "likes":0
             },
             "2": {
                 "name": "Mongolian Beef",
                 "description": "A flavorful dish of sliced beef sauteed w/ green onion & white onion",
-                "price": "9.5"
+                "price": "9.5",
+                "likes":0
             },
             "3": {
                 "name": "Curry Chicken",
                 "description": "Chicken w/ white onion & green peppers in curry sauce",
-                "price": "8.95"
+                "price": "8.95",
+                "likes":0
             },
             "4": {
                 "name": "General Tso's Chicken",
                 "description": "Breaded & deep fried chicken in sweet & spicy sauce",
-                "price": "10.5"
+                "price": "10.5",
+                "likes":0
             },
             "5": {
                 "name": "Sweet & Sour Shrimp",
                 "description": "Deep fried shrimp w/ green peppers, tomato & pineapple in sweet & sour sauce",
-                "price": "10.25"
+                "price": "10.25",
+                "likes":0
             }
         }
     },
@@ -99,32 +111,38 @@
             "0": {
                 "name": "Haddock",
                 "description": "Deep fried",
-                "price": "10.95"
+                "price": "10.95",
+                "likes":0
             },
             "1": {
                 "name": "Side Salad",
                 "description": "Homemade blue cheese & caesar dressing",
-                "price": "2.95"
+                "price": "2.95",
+                "likes":0
             },
             "2": {
                 "name": "Alaskan King Crab Legs",
                 "description": "1 pound",
-                "price": "10.99"
+                "price": "10.99",
+                "likes":0
             },
             "3": {
                 "name": "Seafood Platter (Haddock, Perch, Scallops, Shrimp)",
                 "description": "Deep fried or broiled",
-                "price": "24.95"
+                "price": "24.95",
+                "likes":0
             },
             "4": {
                 "name": "South African Cold Water Lobster",
                 "description": "1 or 2 tails",
-                "price": "5.99"
+                "price": "5.99",
+                "likes":0
             },
             "5": {
                 "name": "10 Oz Tenderloin",
                 "description": "",
-                "price": "22.95"
+                "price": "22.95",
+                "likes":0
             }
         }
     },
@@ -142,32 +160,38 @@
             "0": {
                 "name": "Chicken Cacciatora",
                 "description": "Chicken baked in tomato & wine sauce, served w/ spaghetti.",
-                "price": "17"
+                "price": "17",
+                "likes":0
             },
             "1": {
                 "name": "Manicotti",
                 "description": "Tubular egg noodle dough stuffed w/ ricotta cheese.",
-                "price": "16"
+                "price": "16",
+                "likes":0
             },
             "2": {
                 "name": "Sausage a Ragou",
                 "description": "Our homemade sausage is from an old family recipe. Prepared in a tomato sauce, served w/ spaghetti.",
-                "price": "20"
+                "price": "20",
+                "likes":0
             },
             "3": {
                 "name": "Spaghetti in Olive Oil & Garlic Sauce",
                 "description": "Old world blends of basic ingredients that add new flavor & zest to our pasta.",
-                "price": "14"
+                "price": "14",
+                "likes":0
             },
             "4": {
                 "name": "Pork Chop Dinner",
                 "description": "Two fried chops served w/ pride",
-                "price": "19"
+                "price": "19",
+                "likes":0
             },
             "5": {
                 "name": "Spaghetti in White Clam Sauce",
                 "description": "Clams prepared in a olive oil give this pasta dish a flavor from the sea",
-                "price": "17"
+                "price": "17",
+                "likes":0
             }
         }
     },
@@ -185,32 +209,38 @@
             "0": {
                 "name": "Honey Glazed Pork Belly",
                 "description": "Grilled pineapple, poblano peppers",
-                "price": "8.99"
+                "price": "8.99",
+                "likes":0
             },
             "1": {
                 "name": "Prosciutto Spirals w/ Artichokes",
                 "description": "Balsamic glaze",
-                "price": "11.99"
+                "price": "11.99",
+                "likes":0
             },
             "2": {
                 "name": "Sorbet Sampler",
                 "description": "A taste of all three of our sorbets",
-                "price": "14.99"
+                "price": "14.99",
+                "likes":0
             },
             "3": {
                 "name": "Aged Filet Mignon",
                 "description": "Red wine sauce, baby carrots, asparagus, sauteed wild mushrooms, truffle chive fondue",
-                "price": "20.99"
+                "price": "20.99",
+                "likes":0
             },
             "4": {
                 "name": "Grilled Asparagus",
                 "description": "Sweet pea risotto, sauteed wild mushrooms, baby carrots, saffron sauce",
-                "price": "9.99"
+                "price": "9.99",
+                "likes":0
             },
             "5": {
                 "name": "Rustic Potato Leek Soup",
                 "description": "Fried leeks",
-                "price": "6.99"
+                "price": "6.99",
+                "likes":0
             }
         }
     },
@@ -228,32 +258,38 @@
             "0": {
                 "name": "Tempura Green Beans",
                 "description": "Lightly fried tempura green beans with a spicy ranch sauce",
-                "price": "7"
+                "price": "7",
+                "likes":0
             },
             "1": {
                 "name": "Bison Burger",
                 "description": "Topped with fried onions and onion jam",
-                "price": "12"
+                "price": "12",
+                "likes":0
             },
             "2": {
                 "name": "Quiche Florentine Filled",
                 "description": "with Swiss cheese and spinach",
-                "price": "8"
+                "price": "8",
+                "likes":0
             },
             "3": {
                 "name": "Greek Salad",
                 "description": "Romaine lettuce, red onion, tomato, black olives, artichoke hearts, green pepper and feta cheese with Greek dressing",
-                "price": "10"
+                "price": "10",
+                "likes":0
             },
             "4": {
                 "name": "Crab Cake Sandwich",
                 "description": "Served with a mustard aioli, lettuce and tomato",
-                "price": "10"
+                "price": "10",
+                "likes":0
             },
             "5": {
                 "name": "Southwestern Wrap",
                 "description": "Grilled chicken, black beans, corn salsa, lettuce, tomato and chipotle mayo",
-                "price": "9"
+                "price": "9",
+                "likes":0
             }
         }
     }

@@ -1,9 +1,10 @@
 *{
     font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
 }
 
 body {
-    background-color: #000;
+    background-color: #FFF5F4;
     font-family: 'Oswald', 'Futura', sans-serif;
     margin: 0;
     padding: 0;}
@@ -14,11 +15,11 @@ body {
     position: relative;
     text-align: center;}
 /* Responsive page rules at bottom of style sheet */
-
+.megusta{
+    width:10%;
+}
 h1 {
-    /*background-image: url(images/kinglogo.png);*/
-    background-repeat: no-repeat;
-    background-position: center center;
+
     text-align: center;
     text-indent: -1000%;
     height: 75px;
@@ -28,7 +29,7 @@ h1 {
     padding: 30px 10px 20px 10px;}
 
 h2 {
-    color: #fff;
+    color: #FF686A;
     font-size: 24px;
     font-weight: normal;
     text-align: center;
@@ -80,7 +81,9 @@ li a {
 
 li.complete a {
     background-image: none;}
-
+.accordion-toggle{
+    text-align: center;
+}
 #notes {
     display: none;
     background-color: #fff;

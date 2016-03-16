@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8" content="initial-scale=1.0" name="viewport"/>
     <title>Dynamic List of Restaurants</title>
-    <link href='https://fonts.googleapis.com/css?family=Josefin+Sans' rel='stylesheet' type='text/css'>
-
+    <link rel="stylesheet" type="text/css" href="simple.css">
     <link href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/themes/ui-darkness/jquery-ui.min.css" rel="stylesheet">
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/jquery-ui.min.js"></script>
@@ -13,25 +12,30 @@
             $.ui.dialog.prototype._focusTabbable = $.noop;
         }
     </script>
-<!-- create your css stylesheet called feednd.css -->
-    <link href="simple.css" type="text/css" rel="stylesheet" />
-<!-- the following is optional: uncomment if you want to use jQuery UI -->
-<!--     <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css"> -->
+    <!-- create your css stylesheet called feednd.css -->
+
+    <!-- the following is optional: uncomment if you want to use jQuery UI -->
+    <!--     <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css"> -->
+
 </head>
+<h3 id ="titulo">Restaurants at Notre Dame</h3>
+
 <body>
-<!-- Insert your markup here: -->
-<div id="page">
-    <h1 id="header">List of Restaurants</h1>
-    <h2>Near Notre Dame</h2>
-    <ul>
+
+<div id="_accordion">
+    <ul id="accordion">
+
     </ul>
-    <div id="notes"></div>
 </div>
+
+<!-- Insert your markup here: -->
+
 <!-- do not remove these: -->
 <script src="http://code.jquery.com/jquery-2.2.0.min.js"></script>
 <script src="https://cdn.firebase.com/js/client/2.4.0/firebase.js"></script>
 <script src="feednd.js"></script>
+<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
 <!-- the following is optional: uncomment if you want to use jQuery UI -->
- <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
+<!-- <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script> -->
 </body>
 </html>

@@ -1,0 +1,55 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Don't remove these lines -->
+    <link rel="stylesheet" href="styles/style.css">
+    <!-- Don't remove these lines -->
+
+</head>
+
+<body>
+<header>
+    <figure id = "header_bg">
+        <img id = "img_header" src="images/graphic1.png">
+    </figure>
+    <nav id ="menu">
+        <ul id="list_menu">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="mediagalery.html">Media Gallery</a> </li>
+            <li><a href="resume.html">Resume</a> </li>
+            <li><a href="contact.html">Contact</a> </li>
+        </ul>
+    </nav>
+
+    <h1>Contact Me</h1>
+
+
+
+</header>
+
+<!-- Contact Form -->
+<section>
+    <form id="forum">
+        <label>Name*</label>
+        <input type="text" id="nameid" required placeholder="Smith"> <br><br>
+        <label>Message*</label>
+        <textarea id="messageid"></textarea>
+
+
+    </form>
+    <button onclick="postMessage()">Post</button>
+    <h2>Forum</h2>
+    <ul id ="list"></ul>
+</section>
+<script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
+<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
+<script src="https://cdn.firebase.com/js/client/2.4.0/firebase.js"></script>
+
+<script src="post.js"></script>
+
+</body>
+
+</html>
